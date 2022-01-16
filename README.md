@@ -36,5 +36,4 @@ The use for this project is to calculate the tallest candles of a birthday cake.
 [![Twitter](https://img.shields.io/badge/Twitter-ECEFF4?style=for-the-badge&logo=Twitter)](https://twitter.com/diegomdevs)
 [![GitHub](https://img.shields.io/badge/GitHub-ECEFF4?style=for-the-badge&logo=GitHub&logoColor=2E3440)](https://github.com/diegomdevs)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-gonz%C3%A1lez-8a91a9211/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](diegom.develops@gmail.com)
 
